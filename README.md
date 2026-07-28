@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Hanssen, and I am currently a second-year student at Binghamton University majoring in Computer Science with a minor in Mathematics. I am passionate about expanding my knowledge of programming languages. I am proficient in Python and JavaScript, have been exploring C, and recently developed a full-stack AI therapist project using TypeScript. 
+Hey there! I'm Hanssen, and I am currently a third-year student at Binghamton University majoring in Computer Science with a minor in Mathematics. I am passionate about expanding my knowledge of programming languages. I am proficient in Python and JavaScript, have been exploring C, and recently developed a full-stack AI therapist project using TypeScript. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ly_hanssen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hanssen-ly) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lyhanssen37@gmail.com) 
